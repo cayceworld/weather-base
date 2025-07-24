@@ -33,4 +33,4 @@ A clean and minimal weather application built with **React**. Enter any city nam
 git clone https://github.com/cayceworld/weather-base.git
 cd weather-base
 yarn install
-
+yarn start
