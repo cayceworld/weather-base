@@ -2,6 +2,9 @@
 
 A clean and minimal weather application built with **React**. Enter any city name to instantly get current weather details, including temperature and weather condition.
 
+[Live Demo](https://weather-base-oe12.vercel.app/)
+
+## Preview
 ![WeatherApp Screenshot](./public/screenshot.png)
 
 ---
@@ -24,9 +27,7 @@ A clean and minimal weather application built with **React**. Enter any city nam
 
 ---
 
-##  Getting Started
-
-### Clone & Install
+##  Installation
 
 ```bash
 git clone https://github.com/cayceworld/weather-base.git
